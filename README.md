@@ -8,7 +8,7 @@ There are time triggers that you need to set up first.  The script comes with th
 2. Run the `MasterEmailManager` function once to start regular automation.
 
 If you must modify your code, follow the below instructions.
-1. Run the `stopTriggers` function.fu
+1. Run the `stopTriggers` function.
 2. Make your edits and save the script.
 3. Run the `createTimeTriggerEveryNHours` function.
 4. Run the `MasterEmailManager` function to resume automation.
